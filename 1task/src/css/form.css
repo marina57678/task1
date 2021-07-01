@@ -1,0 +1,64 @@
+._error{
+	box-shadow: 0 0 10px rgba(212, 62, 62, 0.5) ;
+}
+
+.idea{
+	background-color: rgba(33, 94, 33, 0.575);
+}
+
+.task{
+	background-color: rgba(192, 94, 94, 0.685);
+	
+}
+
+.random{
+background-color: rgba(173, 216, 230, 0.571);
+}
+
+
+.table{
+	border-collapse: collapse;
+	border-radius: 10px;
+	background-color: whitesmoke;
+	font-size: 22px;
+	font-family: 'Josefin Sans', sans-serif;
+	width: 90vw;
+	margin: 100px  auto 100px  auto;
+}
+
+._content{
+	background-color: rgba(206, 215, 221, 0.678);
+}
+
+.table__text{
+	padding: 20px;
+	overflow-wrap:break-word;
+}
+
+.btn{
+	border-radius: 0px;
+	border:0;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	padding: 7px;
+}
+
+.btn-del{
+	background-color: rgb(201, 52, 52);
+	color: whitesmoke;
+	margin-right: 20px;
+}
+
+.btn-arh{
+	background-color: rgb(129, 108, 108);
+	color: whitesmoke;
+}
+
+.btn-re{
+	background-color: rgb(52, 82, 80);
+	color: whitesmoke;
+}
+
+.btn:hover{
+	cursor: pointer;
+}
